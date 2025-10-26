@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elakkiya-02
 - 👀 I’m interested in Data Analysis and Business Strategies
 - 🌱 I’m currently learning how to be a better Data Person.
-- 💞️ I’m looking to collaborate on Statistical Analysis, Reports and Visualization techniques, Machine Learning models too.
+- 💞️ I’m looking to collaborate on Reports and Visualization techniques, Machine Learning models, NLP projects too.
 - 📫 How to reach me email: elakkiyavrajendran@gmail.com
 
 <!---
